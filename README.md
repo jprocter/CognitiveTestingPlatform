@@ -101,6 +101,8 @@ Files created by 'game.py':
 
 Editing Parameter Values:
 
+    *** Note Titration parameter currently does NOTHING and is not used at all ***
+
     'parameters.txt' should always hold the current desired parameters to be used in 'game.py', there are two ways to change the values there.
 
         1. 'menu.py' provides an interactive way to load a default/previous parameter file and then modify their values by replacing the text there.

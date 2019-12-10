@@ -47,6 +47,7 @@ data_dir = os.path.join(main_dir, 'data') # main/data
 stimuli_dir = os.path.join(data_dir, 'stimuli') # main/data/stimuli
 
 # keys to lookup the parameter values for each task
+# *** Note Titration parameter currently does NOTHING and is not used at all ***
 # TASKORDER is Series or Random
 # ACTIVE and TITRATION are boolean True/False
 # CIRCLE_SIZE is Small, Medium, or Large
