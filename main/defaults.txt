@@ -1,0 +1,131 @@
+Task Order [Series, Random]
+Series
+
+
+
+Side Task Active [Yes, No]
+Yes
+
+Side Task Trials to Criterion
+2
+
+Side Start Level
+4
+
+Side Task Response Time
+8
+
+Side Task Timeout Time
+5
+
+Side Task Titration [Yes, No]
+No
+
+
+
+Chase Task Active [Yes, No]
+Yes
+
+Chase Task Trials to Criterion
+3
+
+Chase Circle Size [Small, Medium, Large]
+Medium
+
+Chase Task Response Time
+8
+
+Chase Task Timeout Time
+5
+
+Chase Task Titration [Yes, No]
+No
+
+
+
+Pursuit Task Active [Yes, No]
+Yes
+
+Pursuit Task Trials to Criterion
+3
+
+Pursuit Circle Size [Small, Medium, Large]
+Medium
+
+Pursuit Task Pursuit Time
+3
+
+Pursuit Task Response Time
+12
+
+Pursuit Task Timeout Time
+5
+
+Pursuit Task Titration [Yes, No]
+No
+
+
+
+MTS Task Active [Yes, No]
+Yes
+
+MTS Task Trials for Criterion
+3
+
+MTS Task % Correct for Criterion
+60
+
+MTS Task Response Time
+5
+
+MTS Task Timeout Time
+5
+
+MTS Task Titration [Yes, No]
+No
+
+
+
+DMTS Task Active [Yes, No]
+Yes
+
+DMTS Task Trials for Criterion
+4
+
+DMTS Task % Correct for Criterion
+60
+
+DMTS Delay Time
+3
+
+DMTS Task Response Time
+5
+
+DMTS Task Timeout Time
+5
+
+DMTS Task Titration [Yes, No]
+No
+
+
+
+Learning Set Task Active [Yes, No]
+Yes
+
+Learning Set Trials Per Problem
+4
+
+Learning Set Number of Problems
+3
+
+Learning Set % Correct for Criterion
+50
+
+Learning Set Response Time
+5
+
+Learning Set Timeout Time
+5
+
+Learning Set Titration [Yes, No]
+No
